@@ -1,0 +1,10 @@
+numpy==2.2.6
+pillow==11.2.1
+sympy==1.14.0
+torch==2.7.0
+torchaudio==2.7.0
+torchsampler==0.1.2
+torchvision==0.22.0
+tqdm==4.67.1
+triton==3.3.0
+typing_extensions==4.13.2
